@@ -6,7 +6,9 @@ To display external website URLs in Cordova, you can use the inappbrowser plugin
 ![at3cNiWGKE](https://github.com/ariessetiyawan/cordova-plugin-inappbrowser-dlgexit/assets/99067179/9a96b29e-68b7-4247-aac8-d1736b51cab6)
 
 InAppBrowserDialog.java
-----
+
+```
+.....
 public void onBackPressed () {
         if (this.inAppBrowser == null) {
             this.dismiss();
@@ -44,4 +46,4 @@ public void onBackPressed () {
             }
         }
     }
-
+```
