@@ -3,7 +3,7 @@
 
 To display external website URLs in Cordova, you can use the inappbrowser plugin. For integration with backbuttons and exit dialogs.
 
-![at3cNiWGKE](https://github.com/ariessetiyawan/cordova-plugin-inappbrowser-dlgexit/assets/99067179/9a96b29e-68b7-4247-aac8-d1736b51cab6)
+![at3cNiWGKE](https://github.com/ariessetiyawan/cordova-plugin-inappbrowser-dlgexit/assets/99067179/61d9897e-cf94-4159-9561-89209764f8c2)
 
 InAppBrowserDialog.java
 
